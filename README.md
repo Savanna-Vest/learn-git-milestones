@@ -94,12 +94,12 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-  - [ ] File > Clone Repository > Github.com and select it ...
-  - [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
-  - [ ] Click "Clone" to make a local copy
-- [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+  - [x] File > Clone Repository > Github.com and select it ...
+  - [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
+  - [x] Click "Clone" to make a local copy
+- [x] Open the repo in Visual Studio Code: Repository > Open in Visual Studio Code  
+- [x] ✏️ In Visual Studio Code, edit this README file and add your *second* favorite emoji here: 👀
 - [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
 - [ ] ✏️ Commit your changes to the README file directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your changes back to remote repo  
