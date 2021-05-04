@@ -125,7 +125,7 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] Add all changed files to the staging area `git add .`
   - [x] View the status of your repo `git status` to confirm it has been staged
   - [x] ✏️ Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
